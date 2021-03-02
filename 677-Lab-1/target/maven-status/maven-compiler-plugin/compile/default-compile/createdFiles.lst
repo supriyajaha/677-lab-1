@@ -1,0 +1,7 @@
+bazzar/rmi/PeerRmiService.class
+bazzar/rmi/PeerRmiServer.class
+bazzar/constant/Constant.class
+bazzar/data/PeerType.class
+bazzar/App.class
+bazzar/nodes/Peer.class
+bazzar/data/Item.class
